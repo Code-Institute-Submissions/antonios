@@ -2,7 +2,7 @@
 
     @import url('https://fonts.googleapis.com/css2?family=Alex+Brush&family=Poppins:ital,wght@0,300;0,500;0,700;1,300;1,500;1,700&display=swap');
 
-    /* ------------ Variables Colors ------------ */
+/* ------------ Variables Colors ------------ */
 
     :root {
 
@@ -18,4 +18,12 @@
         --txt-dark: #222;
         --txt-black: #000;
 
+    }
+
+/* ------------ Basic Styling ------------ */
+
+    * {
+        box-sizing: border-box;
+        padding: 0;
+        margin: 0;
     }
