@@ -27,3 +27,48 @@
         padding: 0;
         margin: 0;
     }
+
+/* ------------ Headers ------------ */
+
+    header {
+        background-color: var(--bg-dark);
+        color: var(--txt-white);
+    }
+
+    header a {
+        color: var(--txt-white);
+    }
+
+    header a:hover {
+        color: var(--txt-primary);
+    }
+
+/* ------------ Sections ------------ */
+
+    section {
+        background-color: var(--bg-white);
+        color: var(--txt-dark);
+    }
+
+    section a {
+        color: var(--txt-dark);
+    }
+
+    section a:hover {
+        color: var(--txt-primary);
+    }
+
+/* ------------ Footers ------------ */
+
+    footer {
+        background-color: var(--bg-dark);
+        color: var(--txt-white);
+    }
+
+    footer a {
+        color: var(--txt-white);
+    }
+
+    footer a:hover {
+        color: var(--txt-primary);
+    }
