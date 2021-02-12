@@ -72,3 +72,36 @@
     footer a:hover {
         color: var(--txt-primary);
     }
+
+/* ------------ Typography ------------ */
+
+    body {
+        font-family: "Poppins", sans-serif;
+    }
+
+    h1 {
+        font-size: 3rem;
+        font-weight: 500;
+    }
+
+    h2 {
+        font-size: 2rem;
+        font-weight: 500;
+    }
+
+    h3 {
+        font-size: 1.5rem;
+        font-weight: 500;
+    }
+
+    p {
+        font-size: 1rem;
+        font-weight: 300;
+    }
+
+    a {
+        font-size: 1rem;
+        font-weight: 500;
+        text-decoration: none;
+        transition: ease-in-out 250ms;
+    }
