@@ -138,6 +138,35 @@
         row-gap: 2rem;
     }
 
+/* ------------ Tables ------------ */
+
+    .table-two {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .table-three {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+
+    .table-four {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+
+    .table-heading {
+        border-bottom: 0.2rem solid;
+        font-weight: 700;
+        padding: 1rem;
+    }
+
+    .table-data {
+        border-bottom: 0.1rem solid;
+        font-weight: 300;
+        padding: 1rem;
+    }
+
 /* ------------ Navbar ------------ */
 
     .navbar {
