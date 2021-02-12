@@ -33,6 +33,7 @@
     header {
         background-color: var(--bg-dark);
         color: var(--txt-white);
+        padding: 2rem 0;
     }
 
     header a {
@@ -48,6 +49,7 @@
     section {
         background-color: var(--bg-white);
         color: var(--txt-dark);
+        padding: 2rem 0;
     }
 
     section a {
@@ -63,6 +65,7 @@
     footer {
         background-color: var(--bg-dark);
         color: var(--txt-white);
+        padding: 2rem 0;
     }
 
     footer a {
