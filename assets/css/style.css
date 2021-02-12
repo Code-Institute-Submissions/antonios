@@ -116,6 +116,23 @@
         margin: 0 auto;
     }
 
+/* ------------ Dividers - Block ------------ */
+
+    .block-divider {
+        background-color: var(--bg-primary);
+        margin: 1rem auto;
+        height: 0.2rem;
+        width: 4rem;
+    }
+
+/* ------------ Dividers - Section ------------ */
+
+    .section-divider {
+        background-color: var(--bg-light);
+        height: 0.1rem;
+        width: 100%;
+    }
+
 /* ------------ Images ------------ */
     
     img {
