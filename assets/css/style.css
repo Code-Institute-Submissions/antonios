@@ -105,3 +105,10 @@
         text-decoration: none;
         transition: ease-in-out 250ms;
     }
+
+/* ------------ Containers ------------ */
+
+    .container {
+        width: 80%;
+        margin: 0 auto;
+    }
