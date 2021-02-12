@@ -128,3 +128,23 @@
         column-gap: 2rem;
         row-gap: 2rem;
     }
+
+/* ------------ Media Queries ------------ */
+
+    @media screen and (max-width: 600px)
+
+    {
+
+        .grid-two {
+            grid-template-columns: 1fr;
+        }
+
+        .grid-three {
+            grid-template-columns: 1fr;
+        }
+
+        .grid-four {
+            grid-template-columns: 1fr;
+        }
+
+    }
