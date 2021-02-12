@@ -129,6 +129,36 @@
         row-gap: 2rem;
     }
 
+/* ------------ Navbar ------------ */
+
+    .navbar {
+        align-items: center;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .logo {
+        font-family: sans-serif;
+        font-size: 3rem;
+    }
+
+    .navbar ul {
+        display: flex;
+    }
+
+    .navbar li {
+        list-style: none;
+    }
+
+    .navbar a {
+        color: var(--txt-white);
+        padding: 0 1rem;
+    }
+
+    .navbar a:hover {
+        color: var(--txt-primary);
+    }
+
 /* ------------ Media Queries ------------ */
 
     @media screen and (max-width: 600px)
