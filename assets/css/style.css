@@ -106,9 +106,25 @@
         transition: ease-in-out 250ms;
     }
 
-/* ------------ Containers ------------ */
+/* ------------ Container ------------ */
 
     .container {
         width: 80%;
         margin: 0 auto;
+    }
+
+/* ------------ Grids ------------ */
+
+    .grid-two {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        column-gap: 2rem;
+        row-gap: 2rem;
+    }
+
+    .grid-three {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        column-gap: 2rem;
+        row-gap: 2rem;
     }
