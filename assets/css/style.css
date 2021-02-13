@@ -165,6 +165,55 @@
         width: 100%;
     }
 
+/* ------------ Form ------------ */
+
+    input {
+        border: 0.1rem solid var(--txt-dark);
+        border-radius: 2rem;
+        font-family: "Poppins", sans-serif;
+        font-weight: 300;
+        padding: 1rem;
+        margin: 1rem 0;
+        width: 100%;
+    }
+
+    input[type=submit] {
+        background-color: var(--bg-light);
+        border: 0;
+        border-radius: 2rem;
+        color: var(--txt-dark);
+        cursor: pointer;
+        font-family: "Poppins", sans-serif;
+        font-weight: 500;
+        padding: 1rem 2rem;
+        transition: ease-in-out 250ms;
+    }
+
+    input[type=submit]:hover {
+        background-color: var(--bg-primary);
+    }
+
+    input[type=reset] {
+        background-color: var(--bg-dark);
+        border: 0;
+        border-radius: 2rem;
+        color: var(--txt-white);
+        cursor: pointer;
+        font-family: "Poppins", sans-serif;
+        font-weight: 500;
+        padding: 1rem 2rem;
+        transition: ease-in-out 250ms;
+    }
+
+    input[type=reset]:hover {
+        background-color: var(--bg-primary);
+    }
+
+    label {
+        font-weight: 300;
+        padding: 0 1rem;
+    }
+
 /* ------------ Grids ------------ */
 
     .grid-two {
