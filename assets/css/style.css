@@ -291,6 +291,17 @@
         color: var(--txt-primary);
     }
 
+/* ------------ Showcase ------------ */
+
+    .showcase {
+        background-image: url(../images/showcase-image.jpg);
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        color: var(--txt-white);
+        height: 80vh;
+    }
+
 /* ------------ Media Queries ------------ */
 
     @media screen and (max-width: 600px)
