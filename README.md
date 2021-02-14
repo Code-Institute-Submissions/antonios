@@ -4,7 +4,9 @@
 
 ## Description of the Project
 
-* Antonio's is an existing business and I have a personal relationship with the owners.  I have previously worked at the restaurant, for over five years and I am passionate about their values and want to promote their brand.  I have designed promotional flyers for special events in the past.
+* Antonio's is an existing business and I have a personal relationship with the owners.  I have previously worked at the restaurant for over five years and I am passionate about their values and want to promote their brand.  I have designed promotional flyers for special events in the past.
+
+I made various repositories re-creating my project to get it perfect. I saved the code what worked and deleted the code that didn't which is why some of my commits are very close together.
 
 ## User Experience (UX)
 
@@ -34,7 +36,7 @@
 
 ### Imagery
 
-* All of the imagery has tones of orange to go with the colour scheme of the website.
+* All of the imagery has tones of orange, red or yellow to go with the colour scheme of the website.
 
 ### Typography
 
@@ -50,13 +52,6 @@
 * À La Carte Menu Wireframe
 * Everyday Set Menu Wireframe
 * Tapas Menu Wireframe
-
-### Mobile
-
-* Home Page Mobile Wireframe
-* À La Carte Menu Mobile Wireframe
-* Everyday Set Menu Mobile Wireframe
-* Tapas Menu Mobile Wireframe
 
 ## Features
 
@@ -76,7 +71,7 @@
 
 ### Font Awesome
 
-* I used four Font Awesome icons on my website. Three 'modes of transport' icons give emphasis on how to access Antonio's - By Car, By Train and By Bus. The other icon is used for the Make A Booking button, to call Antonio's.
+* I used four Font Awesome icons on my website. Three 'modes of transport' icons emphasize how to access Antonio's - By Car, By Train and By Bus.
 
 ### Git
 
@@ -84,21 +79,21 @@
 
 ### GitHub
 
-* GitHub is used to store the code of the project after being pushed from Git
+* GitHub is used to store the code of the project after being pushed from Git.
 
 ### GitPod
 
-* GitPod was the text editor I used to design the website
+* GitPod was the text editor I used to design the website.
 
 ### Affinity Designer
 
-* I used Affinity Designer to make the wireframes for my website
+* I used Affinity Designer to make the wireframes for my website.
 
-* I used Affinity Designer to darken the showcase image by adding a black translucent overlay
+* I used Affinity Designer to darken the showcase image by adding a black translucent overlay.
 
 ### Affinity Photo
 
-* I used Affinity Photo to resize images to use on the website
+* I used Affinity Photo to resize images to use on the website.
 
 ## Testing
 
@@ -126,35 +121,31 @@ Results - No Error Found
 
 ### Known Bugs
 
-
+* The buttons on the form look different on a mobile screen.
 
 ## User Stories
 
 1. First Time User Goals - I would like first time users to easily navigate through the website and find out what food Antonio's serves, who the owners are ie provenance and how easy it is to visit the restaurant.
 
-    1. Antonio's website is very easy to understand and I was quickly able to establish what food is available, the different menu options, what the opening times are, where to find Antonio's and how to book.
+    1. Antonio's website is very easy to understand and I was quickly able to establish what food is available, the different menu options, what the opening times are and where to find Antonio's.
 
     2. With the personal biographies, I got a true sense of the people behind Antonio's and what to expect when I arrive - a warm, friendly welcome. It gave me confidence that it is an authentic Spanish restaurant.
 
-2. Returning User Goals - I would like returning users to view the most up to date menus and remind themselves of what a great selection of food is available, what the opening times are and then call to make a booking.
+2. Returning User Goals - I would like returning users to view the most up to date menus and remind themselves of what a great selection of food is available, what the opening times and how to make a booking.
 
-    1. Having already navigated my way around Antonio's website with ease, I was quickly able to go straight to the menus to see what food is available and remind myself of the opening hours.
+    1. Having already navigated my way around Antonio's website with ease, I was able to go straight to the menus to see what food is available and remind myself of the opening hours.
 
-    2. With the Make A Booking button, I was able to contact the owner staight away and make a booking. The owner was courteous and obliging.
+    2. The Make A Booking form required me to complete my details, allowing the owner to make contact with me to arrange a booking.
 
-3. Frequently User Goals - I would like frequent users to easily book a table or functions at Antonio's.
+3. Frequently User Goals - I would like frequent users to easily book a table at Antonio's.
 
-    1. Having already booked successfully, I was able to return to the Antonio's website and quickly make another booking.
+    1. I was able to return to Antonio's website and go straight to the Make a Booking form, to make another booking.
 
-    2. I was able to also make enquiries about a function by usisng the Make A Booking function.
-
-
-## Deployment
-
+    2. You can also call Antonio's using the telephone number in the Get in Touch footer.
 
 ## Credits
 
-* I watched the [CSS Grid Layout Crash Course](https://www.youtube.com/watch?v=jV8B24rSN5o) by Brad Traversy to leard how to work with CSS grid.
+* I watched the [CSS Grid Layout Crash Course](https://www.youtube.com/watch?v=jV8B24rSN5o) by Brad Traversy to learn how to work with CSS grid.
 
 ### Content
 
@@ -168,3 +159,4 @@ Results - No Error Found
 ### Acknowledgements
 
 * Thank you to Tutor support at Code Institute for their support.
+* Thank you to Rahul Patil for his support.
