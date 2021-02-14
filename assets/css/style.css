@@ -167,7 +167,7 @@
 
 /* ------------ Form ------------ */
 
-    input {
+    input, select {
         border: 0.1rem solid var(--txt-dark);
         border-radius: 2rem;
         font-family: "Poppins", sans-serif;
