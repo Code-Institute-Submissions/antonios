@@ -124,25 +124,29 @@ Results - No Error Found
 
 * The buttons on the form look different on a mobile screen.
 
+## Deployment
+
+* I have deployed this website on Github Pages
+
 ## User Stories
 
 1. First Time User Goals - I would like first time users to easily navigate through the website and find out what food Antonio's serves, who the owners are ie provenance and how easy it is to visit the restaurant.
 
     1. Antonio's website is very easy to understand and I was quickly able to establish what food is available, the different menu options, what the opening times are and where to find Antonio's.
 
-    2. With the personal biographies, I got a true sense of the people behind Antonio's and what to expect when I arrive - a warm, friendly welcome. It gave me confidence that it is an authentic Spanish restaurant.
+    2. With the personal biographies, I got a true sense of the people behind Antonio's and what to expect when I arrive - a warm, friendly welcome. It gave me confidence that it is an authentic Spanish restaurant.(Screenshot 2021-02-14 at 11.12.58.png)
 
 2. Returning User Goals - I would like returning users to view the most up to date menus and remind themselves of what a great selection of food is available, what the opening times and how to make a booking.
 
-    1. Having already navigated my way around Antonio's website with ease, I was able to go straight to the menus to see what food is available and remind myself of the opening hours.
+    1. Having already navigated my way around Antonio's website with ease, I was able to go straight to the menus to see what food is available and remind myself of the opening hours.(Screenshot 2021-02-14 at 11.13.20.png)
 
-    2. The Make A Booking form required me to complete my details, allowing the owner to make contact with me to arrange a booking.
+    2. The Make A Booking form required me to complete my details, allowing the owner to make contact with me to arrange a booking.(Screenshot 2021-02-14 at 11.13.55.png)
 
 3. Frequently User Goals - I would like frequent users to easily book a table at Antonio's.
 
     1. I was able to return to Antonio's website and go straight to the Make a Booking form, to make another booking.
 
-    2. You can also call Antonio's using the telephone number in the Get in Touch footer.
+    2. You can also call Antonio's using the telephone number in the Get in Touch footer.(Screenshot 2021-02-14 at 11.14.16.png)
 
 ## Credits
 
