@@ -48,10 +48,11 @@ I made various repositories re-creating my project to get it perfect. I saved th
 
 ### Desktop
 
-* Home Page Wireframe
-* À La Carte Menu Wireframe
-* Everyday Set Menu Wireframe
-* Tapas Menu Wireframe
+* Home Page Wireframe Part 1(https://github.com/McBrAdDeRzZ/antonios/blob/master/assets/images/index-wireframe-part-1.jpeg)
+* Home Page Wireframe Part 2(https://github.com/McBrAdDeRzZ/antonios/blob/master/assets/images/index-wireframe-part-2.jpeg)
+* À La Carte Menu Wireframe(https://github.com/McBrAdDeRzZ/antonios/blob/master/assets/images/about-wireframe-.jpeg)
+* Everyday Set Menu Wireframe(https://github.com/McBrAdDeRzZ/antonios/blob/master/assets/images/menus-wireframe-.jpeg.jpeg)
+* Tapas Menu Wireframe(https://github.com/McBrAdDeRzZ/antonios/blob/master/assets/images/contact-wireframe-.jpeg)
 
 ## Features
 
