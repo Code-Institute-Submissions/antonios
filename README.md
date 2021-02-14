@@ -24,11 +24,11 @@
 
 ### Colour Scheme
 
-* Primary Colour - Orange (#ff9800)
-* White - (#ffffff)
-* Light Grey - (#dddddd)
-* Dark Grey - (#222222)
-* Black - (#000000)
+* Primary Colour - Orange (#ffa000)
+* White - (#fff)
+* Light Grey - (#ddd)
+* Dark Grey - (#222)
+* Black - (#000)
 
 * I wanted to incorporate the red and yellow colours of the Spanish flag, for this Spanish restaurant.  However, I found the colour red to be too aggressive and the colour yellow didn't have enough contrast. Therefore, I used a blend of both red and yellow.
 
